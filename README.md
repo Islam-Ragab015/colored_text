@@ -1,16 +1,18 @@
-# colored_text
+# Colored Text
 
-A new Flutter project.
+**Colored Text** is a simple and intuitive app that allows users to change the color of their text by selecting from various color options. Whether you're looking to customize your content for visual appeal or emphasize certain text, this app offers an easy way to do it.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Color Picker**: Choose from a wide range of colors to apply to your text.
+- **Real-Time Preview**: See your color changes in real-time before applying them.
+- **User-Friendly Interface**: Intuitive design makes it easy for both technical and non-technical users to navigate.
+- **Customizable**: Allows you to input any hex code or use a pre-defined palette to change text color.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To set up the Colored Text app locally, follow these steps:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Islam-Ragab015/colored_text.git
