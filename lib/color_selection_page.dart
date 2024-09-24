@@ -4,7 +4,7 @@ import 'text_entry_page.dart';
 class ColorSelectionPage extends StatefulWidget {
   final String name;
 
-  ColorSelectionPage({required this.name});
+  const ColorSelectionPage({super.key, required this.name});
 
   @override
   _ColorSelectionPageState createState() => _ColorSelectionPageState();

@@ -5,7 +5,7 @@ class TextEntryPage extends StatefulWidget {
   final String name;
   final Color color;
 
-  TextEntryPage({required this.name, required this.color});
+  const TextEntryPage({super.key, required this.name, required this.color});
 
   @override
   _TextEntryPageState createState() => _TextEntryPageState();

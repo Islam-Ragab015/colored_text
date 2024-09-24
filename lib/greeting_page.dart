@@ -5,7 +5,8 @@ class GreetingPage extends StatelessWidget {
   final Color color;
   final String text;
 
-  GreetingPage({required this.name, required this.color, required this.text});
+  const GreetingPage(
+      {super.key, required this.name, required this.color, required this.text});
 
   @override
   Widget build(BuildContext context) {
