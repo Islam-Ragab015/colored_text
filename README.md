@@ -9,6 +9,11 @@
 - **User-Friendly Interface**: Intuitive design makes it easy for both technical and non-technical users to navigate.
 - **Customizable**: Allows you to input any hex code or use a pre-defined palette to change text color.
 
+
+## ⭐️ If you find this project useful, please give it a star! ⭐️
+Your support helps me to keep improving and maintaining this project. Thank you!
+
+
 ## Installation
 
 To set up the Colored Text app locally, follow these steps:
